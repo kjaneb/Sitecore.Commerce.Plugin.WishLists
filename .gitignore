@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/.vs/Sitecore.Commerce.Plugin.WishLists/v15/Server/sqlite3
+/obj
+*.user
+*.DotSettings
+/.vs/Sitecore.Commerce.Plugin.WishLists/v15/.suo

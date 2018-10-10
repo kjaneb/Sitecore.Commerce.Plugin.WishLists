@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sitecore.Commerce.Plugin.WishLists", "Sitecore.Commerce.Plugin.WishLists.csproj", "{8847A2D8-95DA-463C-8ED6-E3E80AE48428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8847A2D8-95DA-463C-8ED6-E3E80AE48428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8847A2D8-95DA-463C-8ED6-E3E80AE48428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8847A2D8-95DA-463C-8ED6-E3E80AE48428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8847A2D8-95DA-463C-8ED6-E3E80AE48428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3A4A00-08A2-47E5-96FF-6A8AB2CE92AD}
+	EndGlobalSection
+EndGlobal
